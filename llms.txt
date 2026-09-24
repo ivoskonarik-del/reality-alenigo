@@ -1,0 +1,10 @@
+# Alenigo
+
+> Nabídky nemovitostí kanceláře Alenigo.
+
+- Web: https://www.alenigo.cz/
+
+## Nabídky (3)
+- Prodej bytu 2+kk 58 m² — Libiš, 2 199 000 Kč: prodej-bytu-2-kk-58-m2-1920413772/
+- Prodej chaty 16 m², pozemek 200 m² — Kyje, 750 000 Kč: prodej-chaty-16-m2-pozemek-200-m2-2851635276/
+- Prodej bytu 2+1 51 m² — Žižkov, 6 299 000 Kč: prodej-bytu-2-1-51-m2-3135402828/
